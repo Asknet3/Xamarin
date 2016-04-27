@@ -1,0 +1,12 @@
+SimpleService.MainActivity, SimpleService;md53f899d2ba869be110cd50f7fd98fd776.MainActivity
+SimpleService.MainActivity, SimpleService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53f899d2ba869be110cd50f7fd98fd776.MainActivity
+SimpleService.MainActivity;md53f899d2ba869be110cd50f7fd98fd776.MainActivity
+simpleservice.MainActivity;md53f899d2ba869be110cd50f7fd98fd776.MainActivity
+SimpleService.ReceiveBoot, SimpleService;md53f899d2ba869be110cd50f7fd98fd776.ReceiveBoot
+SimpleService.ReceiveBoot, SimpleService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53f899d2ba869be110cd50f7fd98fd776.ReceiveBoot
+SimpleService.ReceiveBoot;md53f899d2ba869be110cd50f7fd98fd776.ReceiveBoot
+simpleservice.ReceiveBoot;md53f899d2ba869be110cd50f7fd98fd776.ReceiveBoot
+SimpleService.SimpleService, SimpleService;md53f899d2ba869be110cd50f7fd98fd776.SimpleService
+SimpleService.SimpleService, SimpleService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53f899d2ba869be110cd50f7fd98fd776.SimpleService
+SimpleService.SimpleService;md53f899d2ba869be110cd50f7fd98fd776.SimpleService
+simpleservice.SimpleService;md53f899d2ba869be110cd50f7fd98fd776.SimpleService

@@ -1,0 +1,9 @@
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\assemblies\SimpleService.dll
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\assemblies\Mono.Android.dll
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\assemblies\mscorlib.dll
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\assemblies\System.Core.dll
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\assemblies\System.dll
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\assemblies\System.Xml.dll
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\assemblies\System.Xml.Linq.dll
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\assemblies\System.Runtime.Serialization.dll
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\assemblies\System.ServiceModel.Internals.dll

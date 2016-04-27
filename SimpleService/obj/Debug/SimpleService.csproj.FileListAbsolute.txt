@@ -1,0 +1,15 @@
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\bin\Debug\SimpleService.dll
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\bin\Debug\SimpleService.pdb
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\bin\Debug\SimpleService.SimpleService.apk
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\bin\Debug\SimpleService.SimpleService-Signed.apk
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\SimpleService.dll
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\SimpleService.pdb
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\android\bin\SimpleService.SimpleService.apk
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\res\layout\main.xml
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\res\values\strings.xml
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\res\drawable\icon.png
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\R.cs.flag
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\uploadflags.txt
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\SimpleService.csprojResolveAssemblyReference.cache
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\SimpleService.dll.mdb
+c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\bin\Debug\SimpleService.dll.mdb
