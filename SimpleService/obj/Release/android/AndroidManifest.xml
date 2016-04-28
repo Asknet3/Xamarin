@@ -3,10 +3,8 @@
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="16" />
   <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-  <application android:label="SimpleService" android:icon="@drawable/icon" android:name="mono.android.app.Application" android:allowBackup="true">
-    <activity android:icon="@drawable/icon" android:label="SimpleService" android:name="md53f899d2ba869be110cd50f7fd98fd776.MainActivity">
+  <application android:label="SimpleService" android:icon="@drawable/icon" android:name="md53f899d2ba869be110cd50f7fd98fd776.MyAndroidApp" android:allowBackup="true">
+    <activity android:icon="@drawable/icon" android:label="SimpleService" android:uiOptions="none" android:name="md53f899d2ba869be110cd50f7fd98fd776.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
@@ -15,7 +13,7 @@
     <receiver android:name="md53f899d2ba869be110cd50f7fd98fd776.ReceiveBoot">
       <intent-filter>
         <action android:name="android.intent.action.BOOT_COMPLETED" />
-        <category android:name="android.intent.category.DEFAULT" />
+        <category android:name="android.intent.category.HOME" />
       </intent-filter>
     </receiver>
     <service android:name="md53f899d2ba869be110cd50f7fd98fd776.SimpleService" />

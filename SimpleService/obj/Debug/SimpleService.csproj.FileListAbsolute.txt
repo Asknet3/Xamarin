@@ -11,5 +11,5 @@ c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleServ
 c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\R.cs.flag
 c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\uploadflags.txt
 c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\SimpleService.csprojResolveAssemblyReference.cache
-c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Debug\SimpleService.dll.mdb
-c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\bin\Debug\SimpleService.dll.mdb
+C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Debug\SimpleService.dll.mdb
+C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\bin\Debug\SimpleService.dll.mdb

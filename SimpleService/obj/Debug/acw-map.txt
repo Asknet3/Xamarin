@@ -2,6 +2,10 @@ SimpleService.MainActivity, SimpleService;md53f899d2ba869be110cd50f7fd98fd776.Ma
 SimpleService.MainActivity, SimpleService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53f899d2ba869be110cd50f7fd98fd776.MainActivity
 SimpleService.MainActivity;md53f899d2ba869be110cd50f7fd98fd776.MainActivity
 simpleservice.MainActivity;md53f899d2ba869be110cd50f7fd98fd776.MainActivity
+SimpleService.MyAndroidApp, SimpleService;md53f899d2ba869be110cd50f7fd98fd776.MyAndroidApp
+SimpleService.MyAndroidApp, SimpleService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53f899d2ba869be110cd50f7fd98fd776.MyAndroidApp
+SimpleService.MyAndroidApp;md53f899d2ba869be110cd50f7fd98fd776.MyAndroidApp
+simpleservice.MyAndroidApp;md53f899d2ba869be110cd50f7fd98fd776.MyAndroidApp
 SimpleService.ReceiveBoot, SimpleService;md53f899d2ba869be110cd50f7fd98fd776.ReceiveBoot
 SimpleService.ReceiveBoot, SimpleService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53f899d2ba869be110cd50f7fd98fd776.ReceiveBoot
 SimpleService.ReceiveBoot;md53f899d2ba869be110cd50f7fd98fd776.ReceiveBoot

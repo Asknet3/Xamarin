@@ -1,8 +1,8 @@
-c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\SimpleService.dll
-c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\Mono.Android.dll
-c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\mscorlib.dll
-c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\System.Core.dll
-c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\System.dll
-c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\System.Xml.dll
-c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\System.Runtime.Serialization.dll
-c:\users\giuseppe\documents\visual studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\SimpleService.dll
+C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\mscorlib.dll
+C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\System.Core.dll
+C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\System.dll
+C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\System.Xml.dll
+C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Release\android\assets\System.ServiceModel.Internals.dll

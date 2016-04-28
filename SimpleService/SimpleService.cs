@@ -23,11 +23,13 @@ namespace SimpleService
 
             timer1 = new System.Timers.Timer();
             timer1.Elapsed += new System.Timers.ElapsedEventHandler(NotificaTemporizzata);
-            timer1.Interval = 6000; // in miliseconds
+            timer1.Interval = 8000; // in miliseconds
             timer1.Enabled = true;
 
             return StartCommandResult.NotSticky;
         }
+
+
 
         public override void OnDestroy()
         {
@@ -40,8 +42,6 @@ namespace SimpleService
             return null;
         }
 
-
-        
 
         private void NotificaTemporizzata(object sender, EventArgs e)
         {

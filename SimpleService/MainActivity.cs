@@ -8,15 +8,15 @@ using Android.OS;
 
 namespace SimpleService
 {
-    [Activity(Label = "SimpleService", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "SimpleService", MainLauncher = true, Icon = "@drawable/icon",UiOptions = Android.Content.PM.UiOptions.None)]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)
         {
             // Faccio partire il servizio
-            StartService(new Intent(this, typeof(SimpleService)));
+            //StartService(new Intent(this, typeof(SimpleService)));
 
-            base.OnCreate(bundle);
+            //base.OnCreate(bundle);
 
             // Set our view from the "main" layout resource
             //SetContentView(Resource.Layout.Main);
