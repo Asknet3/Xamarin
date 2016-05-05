@@ -1,3 +1,7 @@
+SimpleService.LocationService, SimpleService;md53f899d2ba869be110cd50f7fd98fd776.LocationService
+SimpleService.LocationService, SimpleService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53f899d2ba869be110cd50f7fd98fd776.LocationService
+SimpleService.LocationService;md53f899d2ba869be110cd50f7fd98fd776.LocationService
+simpleservice.LocationService;md53f899d2ba869be110cd50f7fd98fd776.LocationService
 SimpleService.MainActivity, SimpleService;md53f899d2ba869be110cd50f7fd98fd776.MainActivity
 SimpleService.MainActivity, SimpleService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53f899d2ba869be110cd50f7fd98fd776.MainActivity
 SimpleService.MainActivity;md53f899d2ba869be110cd50f7fd98fd776.MainActivity

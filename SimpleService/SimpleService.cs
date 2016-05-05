@@ -1,39 +1,34 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
 using Android.App;
 using Android.Content;
 using Android.OS;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
-using Android.Util;
-using System.Threading;
+
 
 namespace SimpleService
 {
     [Service]
     public class SimpleService : Service
     {
+        System.Timers.Timer timer1;
         public override StartCommandResult OnStartCommand(Intent intent, StartCommandFlags flags, int startId)
         {
-            System.Timers.Timer timer1;
-
+            #region ===== Invia notifica =====
             timer1 = new System.Timers.Timer();
             timer1.Elapsed += new System.Timers.ElapsedEventHandler(NotificaTemporizzata);
             timer1.Interval = 8000; // in miliseconds
             timer1.Enabled = true;
+            #endregion =======================
 
             return StartCommandResult.NotSticky;
         }
 
 
-
         public override void OnDestroy()
         {
-           
+            base.OnDestroy();
+            timer1.Dispose();
+            timer1 = null;
+            //this.ApplicationContext.StopService(new Intent(this, typeof(SimpleService)));
         }
 
         public override IBinder OnBind(Intent intent)

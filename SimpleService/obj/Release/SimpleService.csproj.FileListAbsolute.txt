@@ -10,5 +10,6 @@ C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleServ
 C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Release\res\drawable\icon.png
 C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Release\R.cs.flag
 C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Release\uploadflags.txt
+C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Release\SimpleService.csprojResolveAssemblyReference.cache
 C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\obj\Release\SimpleService.dll.mdb
 C:\Users\Giuseppe\Documents\Visual Studio 2015\Projects\SimpleService\SimpleService\bin\Release\SimpleService.dll.mdb

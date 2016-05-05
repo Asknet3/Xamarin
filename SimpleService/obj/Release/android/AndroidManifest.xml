@@ -3,8 +3,13 @@
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="16" />
   <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
   <application android:label="SimpleService" android:icon="@drawable/icon" android:name="md53f899d2ba869be110cd50f7fd98fd776.MyAndroidApp" android:allowBackup="true">
-    <activity android:icon="@drawable/icon" android:label="SimpleService" android:uiOptions="none" android:name="md53f899d2ba869be110cd50f7fd98fd776.MainActivity">
+    <service android:name="md53f899d2ba869be110cd50f7fd98fd776.LocationService" />
+    <activity android:icon="@drawable/icon" android:label="SimpleService" android:launchMode="singleInstance" android:uiOptions="none" android:name="md53f899d2ba869be110cd50f7fd98fd776.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
